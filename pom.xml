@@ -15,6 +15,7 @@
 	<description>Ciclo3 project for Spring Boot</description>
 	<properties>
 		<java.version>11</java.version>
+                <maven.compiler.source>1.8</maven.compiler.source>
                 <start-class>com.usa.ciclo3.ciclo3.Ciclo3Application</start-class>
 	</properties>
 	<dependencies>
